@@ -15,7 +15,7 @@ TESTED ON KALI LINUX 2019.
 
 # MONITOR MODE howto (you need to do this after every reboot)
 Use these steps to enter monitor mode.
-1) systemctl stop NetworkManager.service 
+1) systemctl stop NetworkManager.service (to make it back to the managed mode put: service network-manager start)
 2) iwconfig wlan0 mode monitor
 
 DONE !!!
