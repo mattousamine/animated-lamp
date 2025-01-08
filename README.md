@@ -1,3 +1,5 @@
+Community support ❤️: www.buymeacoffee.com/mattous
+
 ## rtl8188eus v5.3.9
 
 # Realtek rtl8188eus &amp; rtl8188eu &amp; rtl8188etv WiFi driver
